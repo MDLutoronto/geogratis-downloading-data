@@ -3,6 +3,9 @@ title: "Downloading Data from GeoGratis"
 layout: "home"
 description: "National Resources Canada (NRCAN) produced a portal called GeoGratis for allowing access to, and downloads of, their high-quality, free, and publicly available maps and geospatial data. This tutorial guides you in navigating their Product Index to find data on a specific location, and it is easily adaptable for other locations or desired data products."
 created_date: 2021-01-15
+maintainer: 
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 permalink: "/"  #! Remove this if not the homepage
 ---
 

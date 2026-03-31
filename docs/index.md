@@ -27,7 +27,7 @@ To locate and download data on an area of interest, using Toronto, Ontario as an
 **Raster** contains topographic maps, which show physical features such as roads and rivers.  
 **Vector** contains a variety of features, both physical and cultural, which can be downloaded as file geodatabases or shapefiles.  
 **Elevation** contains Digital Elevation Models (DEM) and Digital Surface Models (DSM) for all of Canada.
-6. For the purposes of this tutorial, let’s locate the map sheet from the [*National Topographic System (NTS)*](https://www-nrcan-gc-ca.myaccess.library.utoronto.ca/earth-sciences/geography/topographic-information/maps/national-topographic-system-maps/9767) for downtown Toronto. **Click on Raster.  
+6. For the purposes of this tutorial, let’s locate the map sheet from the [*National Topographic System (NTS)*](https://natural-resources.canada.ca/maps-tools-publications/maps/topographic-maps/national-topographic-system-maps) for downtown Toronto. **Click on Raster.  
 ![Highlighting Themes tab and Raster sub tab]({{ '/assets/images/Geogratis_Tutorial_004.png' | relative_url }})**
 7. **Then, click on “Digital Topographic Raster Maps - 1:50 000”.  
 ![Highlighting Digital Topographic Raster Map 1 to 50 thousand scale]({{ '/assets/images/Geogratis_Tutorial_005.png' | relative_url }})**

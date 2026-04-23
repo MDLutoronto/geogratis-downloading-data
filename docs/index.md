@@ -43,3 +43,5 @@ To locate and download data on an area of interest, using Toronto, Ontario as an
 ![Three download options]({{ '/assets/images/Geogratis_Tutorial_008.png' | relative_url }}) ![URL showing link ending in geotiff]({{ '/assets/images/Geogratis_Tutorial_009.png' | relative_url }})**
 
 Once it has downloaded, you can unzip it and bring it into a GIS program like ArcGIS Pro or QGIS. You can also modify the above instructions to download DEMs, orthoimagery, or vector files from NRCAN.
+
+**Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting data) \| **Tools:** [GeoGratis](https://mdlutoronto.github.io/tutorials-search/?tool=GeoGratis) \| **Data Format:** [DEM](https://mdlutoronto.github.io/tutorials-search/?dataFormat=DEM), [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
